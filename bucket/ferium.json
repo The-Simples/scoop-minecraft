@@ -1,6 +1,6 @@
 {
     "version": "4.1.3",
-    "description": "[ModPack] - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and Github Releases",
+    "description": "[Mods] - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and Github Releases",
     "homepage": "https://github.com/gorilla-devs/ferium",
     "license": "MPL-2.0",
     "architecture": {
