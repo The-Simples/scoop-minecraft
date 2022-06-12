@@ -1,0 +1,29 @@
+name: ✨ Package Request
+description: I have a suggestion for a package (and may want to implement it)!
+labels: [ "package-request" ]
+
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Package Name
+      description: name of package which has bug(s)
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: Download link(s)
+      description: where can we find it
+    validations:
+      required: true
+
+  - type: textarea
+    id: info
+    attributes:
+      label: Description
+      description: 'clear and concise details of what it is'
+      render: 'raw'
+    validations:
+      required: true
