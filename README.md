@@ -3,12 +3,12 @@
 <!-- Uncomment the following line after replacing placeholders -->
 [![Tests](https://github.com/ahdg6/scoop-minecraft/actions/workflows/ci.yml/badge.svg)](https://github.com/ahdg6/scoop-minecraft/actions/workflows/ci.yml) [![Excavator](https://github.com/ahdg6/scoop-minecraft/actions/workflows/excavator.yml/badge.svg)](https://github.com/ahdg6/scoop-minecraft/actions/workflows/excavator.yml)
 
-A Scoop bucket that focuse on Minecraft stuff, including `Shaders | ModPacks | ResourcePacks | Map | NBT ...` Tools!
+A Scoop bucket that focuse on Minecraft stuff, including `Shaders | ModPacks | ResourcePacks | Map | NBT | Launchers` tools!
 
 ## 📦 Usage
 ---------------------------------
 
-To add this bucket, run `scoop bucket add scoop-minecraft https://github.com/ahdg6/scoop-minecraft`. To install, do `scoop install <manifest>`.
+To add this bucket, run `scoop bucket add scoop-minecraft https://github.com/ahdg6/scoop-minecraft`. <br>To install, do `scoop install <manifest>`.
 
 # How do I contribute new manifests?
 ----------------------------------

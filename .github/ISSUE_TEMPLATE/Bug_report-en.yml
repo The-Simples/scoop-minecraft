@@ -39,10 +39,3 @@ body:
     id: ps
     attributes:
       label: Possible Solution
-      placeholder: |
-        1. Install something...
-
-        2. Join the game...
-
-        3. ....
-        
