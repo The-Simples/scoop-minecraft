@@ -16,12 +16,12 @@ body:
     attributes:
       label: Current Behaviour | Expected Behaviour
       description: >-
-        <br>For the description, assume we have no idea how packages work, 
-        be as detailed as possible and include a step by step reproduction. 
-        <br>It is recommended you try to reproduce the issue you are having yourself with as few steps as possible. 
+        <br>For the description, assume we have no idea how packages work,
+        be as detailed as possible and include a step by step reproduction.
+        <br>It is recommended you try to reproduce the issue you are having yourself with as few steps as possible.
         <br>The clearer the description, the higher the report processing priority
       value: >-
-        *Current Behaviour:* 
+        *Current Behaviour:*
         <br>
         *Expected Behaviour:*
         <br>

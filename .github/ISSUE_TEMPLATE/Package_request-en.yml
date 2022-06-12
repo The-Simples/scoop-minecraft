@@ -27,4 +27,3 @@ body:
       render: 'raw'
     validations:
       required: true
-      
