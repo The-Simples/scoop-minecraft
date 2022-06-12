@@ -7,12 +7,12 @@
         "64bit": {
             "url": "https://github.com/Tiiffi/mcrcon/releases/download/v0.7.2/mcrcon-0.7.2-windows-x86-64.zip",
 			"extract_dir": "mcrcon-0.7.2-windows-x86-64",
-			"bin": "mcrcon.exe",
+			"bin": "mcrcon.exe"
         },
 		"32bit": {
-            "url": "https://github.com/Tiiffi/mcrcon/releases/download/v0.7.2/mcrcon-0.7.2-windows-x86-32.zip"
+            "url": "https://github.com/Tiiffi/mcrcon/releases/download/v0.7.2/mcrcon-0.7.2-windows-x86-32.zip",
             "extract_dir": "mcrcon-0.7.2-windows-x86-32",
-			"bin": "mcrcon.exe",
+			"bin": "mcrcon.exe"
         }
     },
     "shortcuts": [
@@ -31,7 +31,7 @@
 			    "hash": {
                     "url": "https://github.com/Tiiffi/mcrcon/releases/tag/v$version",
                     "regex": "windows-x86-64.*\\s<td>$sha256</td>"
-                },
+                }
             },
             "32bit": {
                 "url": "https://github.com/Tiiffi/mcrcon/releases/download/$version/mcrcon-$version-windows-x86-32.zip",
@@ -40,7 +40,7 @@
 			    "hash": {
                   "url": "https://github.com/Tiiffi/mcrcon/releases/tag/v$version",
                   "regex": "windows-x86-32.*\\s<td>$sha256</td>"
-                },
+                }
             }
         }
     }

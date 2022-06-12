@@ -29,9 +29,12 @@ Legend:
 | ----------- | ----------- | ----------- |
 | [Amidst](https://github.com/toolbox4minecraft/amidst) | ✔️ | Minecraft interface and data/structure tracking tool |
 | [AMULET](https://www.amuletmc.com/) | ✔️ | The new age Minecraft world editor and converter that supports every version since Java 1.12 and Bedrock 1.7 |
+| [Minutor](http://seancode.com/minutor/) | ✔️ | Map rendering tool for Minecraf |
 
 ## Misc
 | Package Name | Auto Update | Description |
 | ----------- | ----------- | ----------- |
 | [chorus](https://chorusmc.org) | ✔️ | The first editor for Spigot configurations. |
 | [Open Note Block Studio](https://github.com/OpenNBS/OpenNoteBlockStudio) | ✔️ | An open-source Minecraft music maker. |
+| [NBTExplorer](https://github.com/jaquadro/NBTExplorer) | ✔️ | Graphical NBT editor for all Minecraft NBT data sources. |
+| [MCCron](https://github.com/Tiiffi/mcrcon) | ✔️ |RCON client for Minecraft |
