@@ -10,7 +10,7 @@ Check our Available [📦Package](https://github.com/ahdg6/scoop-minecraft/blob/
 - Haven't heard of `scoop`?
 <br>Scoop is a awesome command-line installer for Windows. and adding this bucket would make you a easy life in installing minecraft tools.
 - What can I get from it?
-<br>Easily install minecraft tools like `packwiz`, `pax` ... by typing `scoop install packwiz` but not messing up ENV Path yourself. 
+<br>Easily install minecraft tools like [`packwiz`](https://github.com/packwiz/packwiz), [`pax`](https://github.com/froehlichA/pax) etc. by typing `scoop install packwiz` but not messing up ENV Path yourself.
 
 **Always** Feel free to [Report A Bug](https://github.com/ahdg6/scoop-minecraft/issues/new?assignees=&labels=bug&template=Bug_report-en.yml) or [Request A Package](https://github.com/ahdg6/scoop-minecraft/issues/new?assignees=&labels=package-request&template=Package_request-en.yml)
 
