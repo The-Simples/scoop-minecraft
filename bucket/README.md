@@ -1,17 +1,18 @@
 Available Types：
-`Mods` | `ResourcePack` | `Misc`
+`Mods` | `ResourcePack` | `Launchers` | `Map` | `Misc`
 
 Legend:
 
 ✔️ – Yes | ➖ – Partially | ❌ – No
-| ❓ - Unknown
+| ❓ - Unknown | ⭐ - Recommended | 🔎 Good for NEWBIE
 ## Mods
 | Package Name | Auto Update | Description |
 | ----------- | ----------- | ----------- |
-| [ferium](https://github.com/gorilla-devs/ferium) | ✔️ | CLI program for managing Minecraft mods and modpacks |
-| [minepkg](https://preview.minepkg.io) | ❓ | minepkg is an open platform for mod & modpack sharing.|
-| [pax](https://github.com/froehlichA/pax) | ✔️ | The MC modpack manager for professionals. |
-| [packwiz](https://github.com/packwiz/packwiz) | ❌ - They even haven't version | A command line tool for editing and distributing Minecraft modpacks, using a git-friendly TOML format. Supports CurseForge and Modrinth mods with automated updates! |
+| ⭐[ferium](https://github.com/gorilla-devs/ferium)(CLI) | ✔️ | CLI program for managing Minecraft mods and modpacks |
+| [minepkg](https://preview.minepkg.io)(CLI) | ❓ | minepkg is an open platform for mod & modpack sharing.|
+| ⭐[pax](https://github.com/froehlichA/pax)(CLI) | ✔️ | The MC modpack manager for professionals. |
+| ⭐[packwiz](https://github.com/packwiz/packwiz)(CLI) | ❌ - They even don't use version. | A command line tool for editing and distributing Minecraft modpacks, using a git-friendly TOML format. Supports CurseForge and Modrinth mods with automated updates! |
+| ⭐🔎[ModManager](https://github.com/kaniol-lck/modmanager/)(GUI) | ✔️ | A Qt-based mod manager for minecraft. |
 
 ## ResourcePack
 | Package Name | Auto Update | Description |
