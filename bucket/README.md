@@ -1,21 +1,21 @@
 # TOC
 
-- [Mods | ModPacks](#Mods/ModPacks)
+- [Mods | ModPacks](README.md#mods--modpacks) 
 
-- [ResourcePacks](#ResourcePack)
+- [ResourcePacks](README.md#resourcepacks)
 
-- [Launchers](Launchers)
+- [Launchers](README.md#launchers)
 
-- [Map | Regions](#Map/Region)
+- [Map | Regions](README.md#map--region)
 
-- [Misc](#Misc)
+- [Misc](README.md#misc)
 
 Legend:
 
 ✔️ – Yes | ➖ – Partially | ❌ – No
 | ❓ - Unknown | ⭐ - Recommended | 🔎 Good for NEWBIE
 
-## ModsModPacks
+## Mods | ModPacks
 
 | Package Name                                                    | Auto Update                      | Description                                                                                                                                                          |
 | --------------------------------------------------------------- | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -25,7 +25,7 @@ Legend:
 | ⭐[packwiz](https://github.com/packwiz/packwiz)(CLI)             | ❌ - They even don't use version. | A command line tool for editing and distributing Minecraft modpacks, using a git-friendly TOML format. Supports CurseForge and Modrinth mods with automated updates! |
 | ⭐🔎[ModManager](https://github.com/kaniol-lck/modmanager/)(GUI) | ✔️                               | A Qt-based mod manager for minecraft.                                                                                                                                |
 
-## ResourcePack
+## ResourcePacks
 
 | Package Name                                              | Auto Update | Description                                               |
 | --------------------------------------------------------- | ----------- | --------------------------------------------------------- |
@@ -38,14 +38,14 @@ Legend:
 | [PacMC](https://github.com/jakobkmar/pacmc) | ✔️          | An easy-to-use Minecraft package manager and launcher.                                     |
 | [MultiMC](https://multimc.org/)             | ✔️          | Launcher for Minecraft that allows for multiple, cleanly separated instances of Minecraft. |
 
-## Map/Region
+## Map | Region
 
 | Package Name                                          | Auto Update | Description                                                                                                  |
 | ----------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------ |
 | [Amidst](https://github.com/toolbox4minecraft/amidst) | ✔️          | Minecraft interface and data/structure tracking tool                                                         |
 | [AMULET](https://www.amuletmc.com/)                   | ✔️          | The new age Minecraft world editor and converter that supports every version since Java 1.12 and Bedrock 1.7 |
 | [Minutor](http://seancode.com/minutor/)               | ✔️          | Map rendering tool for Minecraf                                                                              |
-| MCAselector                                           | ✔️          |                                                                                                              |
+| [MCAselector](https://github.com/Querz/mcaselector)   | ✔️          | A tool to select chunks from Minecraft worlds for deletion or export.                                        |
 
 ## Misc
 
