@@ -1,6 +1,6 @@
 # TOC
 
-- [Mods | ModPacks](README.md#mods--modpacks) 
+- [Mods | ModPacks](README.md#mods--modpacks)
 
 - [ResourcePacks](README.md#resourcepacks)
 
@@ -33,10 +33,11 @@ Legend:
 
 ## Launchers
 
-| Package Name                                | Auto Update | Description                                                                                |
-| ------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------ |
-| [PacMC](https://github.com/jakobkmar/pacmc) | ✔️          | An easy-to-use Minecraft package manager and launcher.                                     |
-| [MultiMC](https://multimc.org/)             | ✔️          | Launcher for Minecraft that allows for multiple, cleanly separated instances of Minecraft. |
+| Package Name                                | Auto Update | Description                                                                                             |
+| ------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------- |
+| [X Minecraft Launcher](https://xmcl.app/)   | ✔️          | An Open Source Minecraft Launcher with Modern UX. Provide a Disk Efficient way to manage all your Mods! |
+| [PacMC](https://github.com/jakobkmar/pacmc) | ✔️          | An easy-to-use Minecraft package manager and launcher.                                                  |
+| [MultiMC](https://multimc.org/)             | ✔️          | Launcher for Minecraft that allows for multiple, cleanly separated instances of Minecraft.              |
 
 ## Map | Region
 
