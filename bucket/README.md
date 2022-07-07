@@ -33,11 +33,13 @@ Legend:
 
 ## Launchers
 
-| Package Name                                | Auto Update | Description                                                                                             |
-| ------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------- |
-| [X Minecraft Launcher](https://xmcl.app/)   | ✔️          | An Open Source Minecraft Launcher with Modern UX. Provide a Disk Efficient way to manage all your Mods! |
-| [PacMC](https://github.com/jakobkmar/pacmc) | ✔️          | An easy-to-use Minecraft package manager and launcher.                                                  |
-| [MultiMC](https://multimc.org/)             | ✔️          | Launcher for Minecraft that allows for multiple, cleanly separated instances of Minecraft.              |
+| Package Name                                             | Auto Update | Description                                                                                                                                           |
+| -------------------------------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [X Minecraft Launcher](https://xmcl.app/)                | ✔️          | An Open Source Minecraft Launcher with Modern UX. Provide a Disk Efficient way to manage all your Mods!                                               |
+| [PacMC](https://github.com/jakobkmar/pacmc)              | ✔️          | An easy-to-use Minecraft package manager and launcher.                                                                                                |
+| [MultiMC](https://multimc.org/)                          | ✔️          | Launcher for Minecraft that allows for multiple, cleanly separated instances of Minecraft.                                                            |
+| [ATLauncher](https://github.com/ATLauncher/ATLauncher)   | ✔️          | ATLauncher is a Launcher for Minecraft which integrates multiple different ModPacks to allow you to download and install ModPacks easily and quickly. |
+| [GDLauncher](https://github.com/gorilla-devs/GDLauncher) | ✔️          |                                                                                                                                                       |
 
 ## Map | Region
 
