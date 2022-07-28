@@ -10,7 +10,9 @@
         }
     },
     "bin":"packsquash.exe",
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/ComunidadAylas/PackSquash"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {

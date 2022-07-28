@@ -20,7 +20,9 @@
             "X Minecraft Launcher"
         ]
     ],
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/Voxelum/x-minecraft-launcher"
+    },
     "autoupdate": {
         "64bit": {
             "url": "https://github.com/Voxelum/x-minecraft-launcher/releases/download/v$version/xmcl-$version-win32-x64-unsigned.zip",

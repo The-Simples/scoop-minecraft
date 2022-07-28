@@ -9,7 +9,9 @@
         }
     },
     "bin": "pax.exe",
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/froehlichA/pax"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {

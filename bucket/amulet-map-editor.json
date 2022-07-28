@@ -1,7 +1,7 @@
 {
     "version": "0.9.6",
     "description": "[Map] - Minecraft world editor and converter that supports all versions since Java 1.12 and Bedrock 1.7",
-    "homepage": "https://www.amulet-editor.com",
+    "homepage": "https://www.amuletmc.com/",
     "license": "Unknown",
     "architecture": {
         "64bit": {

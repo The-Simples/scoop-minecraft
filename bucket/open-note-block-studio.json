@@ -13,7 +13,9 @@
             "Note Block Studio"
         ]
     ],
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/OpenNBS/OpenNoteBlockStudio"
+    },
     "autoupdate": {
         "url": "https://github.com/OpenNBS/OpenNoteBlockStudio/releases/download/v$version/Minecraft.Note.Block.Studio.zip"
     }
