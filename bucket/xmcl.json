@@ -1,16 +1,16 @@
 {
-    "version": "0.28.1",
+    "version": "0.32.8",
     "description": "[Launcher] - An Open Source Minecraft Launcher with Modern UX. Provide a Disk Efficient way to manage all your Mods! ",
     "homepage": "https://xmcl.app/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Voxelum/x-minecraft-launcher/releases/download/v0.28.1/xmcl-0.28.1-win32-x64-unsigned.zip",
-            "hash": "sha256:c7639067eb4456f46b1d32651d1ced709685461faf0d3559e3c72815cbffadbd"
+            "url": "https://github.com/Voxelum/x-minecraft-launcher/releases/download/v0.32.8/xmcl-0.32.8-win32-x64-unsigned.zip",
+            "hash": "b7d1784ae929ba85afaf0acdf8b4bbc3dd48d1c73df1cb46feb7d89fcab8ee08"
         },
         "32bit": {
-            "url": "https://github.com/Voxelum/x-minecraft-launcher/releases/download/v0.28.1/xmcl-0.28.1-win32-ia32-unsigned.zip",
-            "hash": "sha256:bfc59e5a190cf76f084527947bd8a4b1e1585edc7bf30f82d7a526dd0538f14a"
+            "url": "https://github.com/Voxelum/x-minecraft-launcher/releases/download/v0.32.8/xmcl-0.32.8-win32-ia32-unsigned.zip",
+            "hash": "f2dd3a7c0b3b609edeecd8a47ec24674c75d0e6772ea69f72f207fe9bfe907b3"
         }
     },
     "bin": "X Minecraft Launcher.exe",
@@ -33,7 +33,7 @@
             }
         },
         "hash": {
-           "url": "$url.sha256"
+            "url": "$url.sha256"
         }
     }
 }
