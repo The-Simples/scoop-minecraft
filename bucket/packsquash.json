@@ -5,8 +5,7 @@
     "license":"AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ComunidadAylas/PackSquash/releases/download/v0.3.1/PackSquash.executable.Windows.x64.zip",
-            "hash":"09f0b23733f7fbdd768b473aac9ae862a9802bfd69df61b8e4fba4b94347921f"
+            "url": "https://github.com/ComunidadAylas/PackSquash/releases/download/v0.3.1/PackSquash.executable.Windows.x64.zip"
         }
     },
     "bin":"packsquash.exe",

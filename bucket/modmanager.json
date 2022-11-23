@@ -5,12 +5,10 @@
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kaniol-lck/modmanager/releases/download/v1.1.0/ModManager-v1.1.0-build.535-x64-Installer.exe#/setup.exe",
-            "hash": "sha1:B8AC60D3117CA5AB2EFEB45A09C7F23B9E7F89F3"
+            "url": "https://github.com/kaniol-lck/modmanager/releases/download/v1.1.0/ModManager-v1.1.0-build.535-x64-Installer.exe#/setup.exe"
         },
         "32bit": {
-            "url": "https://github.com/kaniol-lck/modmanager/releases/download/v1.1.0/ModManager-v1.1.0-build.535-Installer.exe#/setup.exe",
-            "hash": "sha1:AB4AF9C130CBB03921D52F4C95359837D7040986"
+            "url": "https://github.com/kaniol-lck/modmanager/releases/download/v1.1.0/ModManager-v1.1.0-build.535-Installer.exe#/setup.exe"
         }
     },
     "installer": {
@@ -29,17 +27,16 @@
         ]
     ],
     "checkver": {
-        "url": "https://github.com/kaniol-lck/modmanager/releases",
-        "regex": "ModManager-v(?<version>[\\d.]+)-/build.[0-9]+/-",
-        "replace": "${version}"
+        "url": "https://github.com/kaniol-lck/modmanager/tags",
+        "regex": "v(?<version>[\d.]+)-build.(?<build>[0-9]+)"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/kaniol-lck/modmanager/releases/download/v$version/$matchName-x64-Installer.exe#/setup.exe"
+                "url": "https://github.com/kaniol-lck/modmanager/releases/download/v$match1-build.$match2/ModManager-v$match1-build.$match2-x64-Installer.exe#/setup.exe"
             },
             "32bit": {
-                "url": "https://github.com/kaniol-lck/modmanager/releases/download/v$version/$matchName-Installer.exe#/setup.exe"
+                "url": "https://github.com/kaniol-lck/modmanager/releases/download/v$match1-build.$match2/ModManager-v$match1-build.$match2-Installer.exe#/setup.exe"
             }
         }
     }

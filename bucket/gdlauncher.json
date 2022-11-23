@@ -11,7 +11,9 @@
             "GDLauncher"
         ]
     ],
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/gorilla-devs/GDLauncher"
+    },
     "autoupdate": {
         "url": "https://github.com/gorilla-devs/GDLauncher/releases/download/v$version/GDLauncher-win-portable.zip"
     }

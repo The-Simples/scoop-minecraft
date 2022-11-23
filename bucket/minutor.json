@@ -13,7 +13,7 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/mrkite/minutor/"
+        "github": "https://github.com/mrkite/minutor"
     },
     "autoupdate": {
         "url": "https://github.com/mrkite/minutor/releases/download/$version/Minutor.Windows.no.installer.zip"
