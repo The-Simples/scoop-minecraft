@@ -5,11 +5,11 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Voxelum/x-minecraft-launcher/releases/download/v0.33.1/xmcl-0.33.1-win32-x64-unsigned.zip",
+            "url": "https://github.com/Voxelum/x-minecraft-launcher/releases/download/v0.33.1/xmcl-0.33.1-win32-x64.zip",
             "hash": "8f5ab5970a853a48221d9a987286d41d04bec4144138385edb5fdf70699ecc92"
         },
         "32bit": {
-            "url": "https://github.com/Voxelum/x-minecraft-launcher/releases/download/v0.33.1/xmcl-0.33.1-win32-ia32-unsigned.zip",
+            "url": "https://github.com/Voxelum/x-minecraft-launcher/releases/download/v0.33.1/xmcl-0.33.1-win32-ia32.zip",
             "hash": "960dc02031dcdd226e998f7df4d75e2c0a792c2f97c1a749e568e83091ca7306"
         }
     },
@@ -26,10 +26,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/Voxelum/x-minecraft-launcher/releases/download/v$version/xmcl-$version-win32-x64-unsigned.zip"
+                "url": "https://github.com/Voxelum/x-minecraft-launcher/releases/download/v$version/xmcl-$version-win32-x64.zip"
             },
             "32bit": {
-                "url": "https://github.com/Voxelum/x-minecraft-launcher/releases/download/v$version/xmcl-$version-win32-ia32-unsigned.zip"
+                "url": "https://github.com/Voxelum/x-minecraft-launcher/releases/download/v$version/xmcl-$version-win32-ia32.zip"
             }
         },
         "hash": {
