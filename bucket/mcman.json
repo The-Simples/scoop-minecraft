@@ -6,21 +6,12 @@
         "identifier": "Proprietary",
         "url": "https://github.com/ParadigmMC/mcman/blob/main/LICENSE"
     },
-    "architecture": {
-        "64bit": {
-            "bin": "mcman.exe",
-            "url": "https://github.com/ParadigmMC/mcman/releases/download/0.2.2/mcman.exe"
-        }
-    },
+    "bin": "mcman.exe",
+    "url": "https://github.com/ParadigmMC/mcman/releases/download/0.2.2/mcman.exe",
     "checkver": {
         "github": "https://github.com/ParadigmMC/mcman"
     },
     "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "bin": "mcman.exe",
-                "url": "https://github.com/ParadigmMC/mcman/releases/download/$version/mcman.exe"
-            }
-        }
-    },
+        "url": "https://github.com/ParadigmMC/mcman/releases/download/$version/mcman.exe"
+    }
 }
